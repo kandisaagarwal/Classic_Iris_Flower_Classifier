@@ -68,11 +68,12 @@ streamlit run app.py
 
 ## 📚 Tech Stack
 
-TensorFlow
-scikit-learn
-Streamlit
-NumPy
-joblib
+1. TensorFlow
+2. scikit-learn
+3. keras
+4. Streamlit
+5. NumPy
+6. joblib
 
 ---
 
